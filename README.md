@@ -23,7 +23,7 @@ Jupyter Notebook(only if running locally)
 
 ## Results
 
-The main findings of the code can be found at the post available
+The main findings of the code can be found at the post available here: 
 
 # Acknowledgements
 I got the data from Kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand
