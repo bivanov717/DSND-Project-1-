@@ -1,4 +1,4 @@
-# DSND-Project-1
+# Hotel Booking Demand Analysis
 
 ## Project motivation
 In this repo you'll find the analysis I did for the data scientist nanodegree using public data from Kaggle on hotel reservations. I was interested in finding out: 
@@ -15,15 +15,20 @@ For this project there are:
 
 ## Requirements
 
-Pandas
-Numpy
-Matplotplit
-Seaborn
-Jupyter Notebook(only if running locally)
+- Pandas
+- Numpy
+- Matplotplit
+- Seaborn
+- Jupyter Notebook(only if running locally)
 
 ## Results
 
-The main findings of the code can be found at the post available here: https://medium.com/@b_ivanov/analyzing-hotel-demand-data-eeac278ea8c5
+The analysis helped come to the following conclusions:
+1. Lead time appears to be about 100 days for all holidays, with family holidays having slightly shorter lead time, compared to non-family. The price and lead time have a small negative correlation.
+2. The main explanatory variables for price (Average Daily Rate) appear to be Reserved Room Type, Assigned Room Type and Market Segment.
+3. The bookings are predominantly spread within the summer months, with a fall down in the winter.
+
+A full blog post describing the results can be found here: https://medium.com/@b_ivanov/analyzing-hotel-demand-data-eeac278ea8c5
 
 # Acknowledgements
 I got the data from Kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand
