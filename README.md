@@ -10,8 +10,8 @@ In this repo you'll find the analysis I did for the data scientist nanodegree us
 ## File Description
 
 For this project there are:
--	one data file - DSDN Project 1 Hotel Data.csv
--	one notebook available - DSDN Project 1.ipynb
+-	one data file - Hotel Booking Demand Analysis - Data.csv
+-	one notebook available - Hotel Booking Demand Analysis.ipynb
 
 ## Requirements
 
