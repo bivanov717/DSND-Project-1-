@@ -17,7 +17,7 @@ For this project there are:
 
 - Pandas v1.0.3
 - Numpy v1.18
-- Matplotplit v3.2.1
+- Matplotplib v3.2.1
 - Seaborn v0.10.1
 - Jupyter Notebook(only if running locally)
 
